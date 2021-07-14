@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=rect&height=100&color=gradient&text=Trying%20to%20be%20a%20good%20developer.&fontSize=25&descAlign=60&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=rect&height=60&color=gradient&text=Trying%20to%20be%20a%20good%20developer.&fontSize=25&descAlign=60&descAlignY=50)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
