@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Trying%20to%20be%20a%20good%20developer.&fontSize=25&descAlign=60&descAlignY=50)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/anuraghazra/github-readme-stats)
